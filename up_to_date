@@ -1,0 +1,7 @@
+use commands
+git add .
+git commit -m ""
+git push 
+git checkout origin branch-name
+git config user.name ""
+git config user.email ""
