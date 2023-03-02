@@ -1,1 +1,5 @@
-commit (message: “How to be up to date in git”)
+$ git clone <repo>
+$ touch test
+$ git add test
+$ git commit -m "Initial commit"
+$ git push origin main
