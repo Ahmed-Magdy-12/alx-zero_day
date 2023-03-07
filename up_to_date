@@ -1,2 +1,16 @@
+<<<<<<< HEAD
 use git add . and git checkout origin branch_name
 and git commit -m "commit"
+=======
+use commands
+git add .
+git commit -m ""
+git push 
+git checkout origin branch-name
+git config user.name ""
+git config user.email ""
+<<<<<<< HEAD
+
+=======
+>>>>>>> update_script
+>>>>>>> update_script
