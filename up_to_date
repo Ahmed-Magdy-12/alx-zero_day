@@ -5,4 +5,7 @@ git push
 git checkout origin branch-name
 git config user.name ""
 git config user.email ""
+<<<<<<< HEAD
 
+=======
+>>>>>>> update_script
